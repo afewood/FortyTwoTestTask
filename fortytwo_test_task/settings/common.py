@@ -82,7 +82,7 @@ USE_L10N = True
 
 USE_TZ = True
 
-# Upload Media
+# Upload Media/
 # Absolute filesystem path to the directory that will hold user-uploaded files.
 # Example: "/home/media/media.lawrence.com/media/"
 MEDIA_ROOT = os.path.join(BASE_DIR, '..', 'uploads')
